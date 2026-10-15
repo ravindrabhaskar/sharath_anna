@@ -3,3 +3,8 @@ reference.html
 asset-review.jpg
 *.tar.gz
 *.log
+.vercel/
+.env
+.env.*
+!.env.example
+node_modules/

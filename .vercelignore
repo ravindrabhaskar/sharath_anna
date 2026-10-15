@@ -1,0 +1,10 @@
+.git
+.openai
+tmp
+*.py
+*.tar.gz
+*.log
+Screen Recording*.mp4
+asset-review.jpg
+media-source.json
+README.md
